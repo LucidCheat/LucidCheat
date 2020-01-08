@@ -1,1 +1,0 @@
-Run AnticheatDisabler.bat to begin.
