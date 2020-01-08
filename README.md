@@ -1,23 +1,18 @@
-# LucidCheat 1.2
-*Current Release.
+# LucidSpoofer
 
-Project files will be made available as the repository is updated to the latest version.
+*Disables a Fortnite Ban*
 
 # Releases
-*Working releases will be made available.
+### LucidSpoofer 1.2
+**Patch Notes:**
 
-LucidCheat 1.2
 
-LucidCheat 1.1
 
-LucidCheat 1.0
-# Pre-Alpha Releases
-*Some may be unstable or buggy.
+### LucidSpoofer 1.1
+**Patch Notes:**
 
-Lucid 0.9.5
+Lots of bug fixes.
 
-Lucid 0.9.0
 
-Lucid 0.8.1
-
-Lucid 0.8.0
+### LucidSpoofer 1.0
+-released with LucidCheat 1.0
