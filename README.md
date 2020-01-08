@@ -1,3 +1,7 @@
+# LucidCheat 1.2
+*Current Release.*
+Project
+
 # Releases
 *Working releases will be made available.
 
