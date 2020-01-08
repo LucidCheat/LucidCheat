@@ -14,7 +14,7 @@ Project files will be made available as the repository is updated to the latest 
 
 ### LucidCheat 1.1
 
-LucidCheat 1.0
+### LucidCheat 1.0
 # Pre-Alpha Releases
 *Some may be unstable or buggy.*
 
