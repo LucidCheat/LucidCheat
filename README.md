@@ -1,6 +1,7 @@
 # LucidCheat 1.2
-*Current Release.*
-Project
+*Current Release.
+
+Project files will be made available as the repository is updated to the latest version.
 
 # Releases
 *Working releases will be made available.
