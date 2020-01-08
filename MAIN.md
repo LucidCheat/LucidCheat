@@ -3,6 +3,8 @@
 
 Shop: [Shopify.gg/@LucidCheats](https://shopify.gg/@lucidcheats/)
 
+**Click on the branches to go to different cheats.**
+
 ### Current Version: LucidCheat 1.2
 **Patch Notes:**
 
