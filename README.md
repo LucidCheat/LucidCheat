@@ -1,6 +1,6 @@
 # LucidSpoofer
 
-*Disables a Fortnite Ban*
+*Disables almost any Fortnite Ban*
 
 # Releases
 ### LucidSpoofer 1.2
