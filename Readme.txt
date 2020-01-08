@@ -1,1 +1,0 @@
-Run LucidSpoofer.bat to begin.
